@@ -1,9 +1,9 @@
 {
-  "short_name": "curogo",
-  "name": "curogo",
+  "short_name": "umedasatoshi.github.io",
+  "name": "umedasatoshi.github.io",
   "theme_color": "#000000",
   "background_color": "#e0e0e0",
-  "start_url": "https://curogo.com/",
+  "start_url": "https://umedasatoshi.github.io",
   "display": "minimal-ui",
   "orientation": "portrait",
   "icons": [
